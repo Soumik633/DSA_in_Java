@@ -29,7 +29,7 @@ public class AddDigits {
 
         int result = obj.addDigits(num);
 
-        System.out.println("Single Digit Sum: " + result);
+        System.out.println("Single Digit Sum:- " + result);
 
         sc.close();
     }
